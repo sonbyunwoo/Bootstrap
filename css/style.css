@@ -30,6 +30,14 @@ h1, h2, h3, h4, .logo-font {
     background-size: cover;
 }
 
+/* contact.html contact 섹션 */
+.contact-bg {
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.2)), url(../images/contact-bg.jpg);
+    background-position: center;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
 .card-img-top {
     transition: transform 0.7s ease;
 }
